@@ -6,6 +6,6 @@ node_modules/
 
 
 #files that should ignore
-test.js
-Person1.csv
-Person2.csv
+/test.js
+/*.csv
+/Person2.csv
