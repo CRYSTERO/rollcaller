@@ -4,4 +4,8 @@ release-builds/
 node_modules/
 .git/
 
+
 #files that should ignore
+test.js
+Person1.csv
+Person2.csv
