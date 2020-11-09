@@ -1,0 +1,7 @@
+﻿#dirs that should ignore
+release-builds/
+.idea/
+node_modules/
+.git/
+
+#files that should ignore
